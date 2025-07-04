@@ -1,0 +1,8 @@
+﻿  GameStage.cpp
+C:\Users\MEMZ\Desktop\东方Project终终版\东方Project\bullettrack.h(17,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“GameStage.cpp”)
+  
+C:\Users\MEMZ\Desktop\东方Project终终版\东方Project\body.h(17,99): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“GameStage.cpp”)
+  
+  东方Project.vcxproj -> C:\Users\MEMZ\Desktop\东方Project终终版\x64\Debug\东方Project.exe

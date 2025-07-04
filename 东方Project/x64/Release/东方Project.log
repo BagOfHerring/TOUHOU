@@ -1,0 +1,16 @@
+﻿  UpdateGame.cpp
+C:\Users\MEMZ\Desktop\东方Project终终版\东方Project\bullettrack.h(17,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“UpdateGame.cpp”)
+  
+C:\Users\MEMZ\Desktop\东方Project终终版\东方Project\body.h(17,99): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“UpdateGame.cpp”)
+  
+x64\Release\bullettrack.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+x64\Release\entity.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  正在生成代码
+  48 of 658 functions ( 7.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  东方Project.vcxproj -> C:\Users\MEMZ\Desktop\东方Project终终版\x64\Release\东方Project.exe
